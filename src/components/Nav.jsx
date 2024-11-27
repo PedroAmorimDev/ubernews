@@ -66,7 +66,7 @@ const Title = styled.h1`
 const Nav = () => {
   return (
     <StyledNav>
-      <Link to="/">
+      <Link to="/ubernews">
         <Title>
           <span>UBER</span>
           <span>NEWS</span>

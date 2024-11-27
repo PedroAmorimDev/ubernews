@@ -14,7 +14,7 @@ const App = () => {
       <Nav />
       <div style={{ paddingTop: '70px', paddingBottom: '50px' }}> 
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/ubernews" element={<Home />} />
           <Route path="/cadastro" element={<Cadastro />} />
           <Route path="/lista" element={<Lista />} />
           <Route path="/sobre" element={<Sobre />} />

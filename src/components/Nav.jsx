@@ -73,15 +73,15 @@ const Nav = () => {
         </Title>
       </Link>
       <div id="menu">
-        <Link to="/sobre">Sobre</Link>
-        <Link to="/lista">Eventos</Link>
-        <Link to="/cadastro">Divulgue</Link>
+        <Link to="ubernews/sobre">Sobre</Link>
+        <Link to="ubernews/lista">Eventos</Link>
+        <Link to="ubernews/cadastro">Divulgue</Link>
       </div>
       <div id="menu2">
      <h1>‎ </h1>
      <h1>‎ </h1>
      <h1>‎ </h1>
-        <Link to="/carreira">Carreira</Link>
+        <Link to="ubernews/carreira">Carreira</Link>
       </div>
     </StyledNav>
   );

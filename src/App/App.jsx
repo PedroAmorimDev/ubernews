@@ -15,10 +15,10 @@ const App = () => {
       <div style={{ paddingTop: '70px', paddingBottom: '50px' }}> 
         <Routes>
           <Route path="/ubernews" element={<Home />} />
-          <Route path="/cadastro" element={<Cadastro />} />
-          <Route path="/lista" element={<Lista />} />
-          <Route path="/sobre" element={<Sobre />} />
-          <Route path="/carreira" element={<Carreira />} />
+          <Route path="ubernews/cadastro" element={<Cadastro />} />
+          <Route path="ubernews/lista" element={<Lista />} />
+          <Route path="ubernews/sobre" element={<Sobre />} />
+          <Route path="ubernews/carreira" element={<Carreira />} />
         </Routes>
       </div>
       <Footer />

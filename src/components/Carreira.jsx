@@ -40,7 +40,7 @@ color: white;
 
 `;
 const Span3 = styled.span`
-background-image: url('https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/42C6/production/_102149071_cyan-blue-976x549.jpg.webp');
+background-image: url('https://pedroamorimdev.github.io/ubernews/fundo.png');
 padding: 10px;
 border-radius: 40px;
 color: white;

@@ -168,7 +168,7 @@ function Sobre() {
             text="acessoriadevfive@devfive.com"
             text2="+07 (67) 3288-2359"
             title='Contato'
-            imageUrl="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR-2QJzuesYzldLI-sazOm81uATczd1DNo6aXPE4KqFyE7_Xzm"
+            imageUrl="https://pedroamorimdev.github.io/ubernews/fundo.png"
           />
           <FloatingBubble2
             text="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."

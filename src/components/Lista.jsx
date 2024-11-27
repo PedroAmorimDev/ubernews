@@ -7,7 +7,7 @@ const HeaderSection = styled.section`
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: url('https://img.freepik.com/free-photo/gradient-3d-fluid-background_23-2150499061.jpg') no-repeat center/cover;
+  background: url('https://pedroamorimdev.github.io/ubernews/fundo1.png') no-repeat center/cover;
   height: 180px;
   justify-content: center;
   width: 100%;

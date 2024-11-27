@@ -62,7 +62,7 @@ const Cadastro = () => {
     <div id='banner'>
       <div className='banner'>
         <TitleOverlay>
-        Cadastre o seu evento <img src="./forma.png" className='icon' alt="" /> 
+        Cadastre o seu evento <img src="https://pedroamorimdev.github.io/ubernews/forma.png" className='icon' alt="" /> 
       </TitleOverlay>
       </div>
     </div>

@@ -61,7 +61,7 @@ nav {
     margin-top: 30px;
     height: 800px;
     border-radius: 10px;
-background-image: url(./fundo1.png);
+background-image: url(https://img.freepik.com/free-photo/gradient-3d-fluid-background_23-2150499061.jpg);
 background-size:1600px;
 text-align: center;
 }
@@ -128,7 +128,7 @@ margin: 40px 0 0 0;
 }
 
 .fundocarreira{
-    background-image: url('./fundo1.png');
+    background-image: url('https://img.freepik.com/free-photo/gradient-3d-fluid-background_23-2150499061.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;

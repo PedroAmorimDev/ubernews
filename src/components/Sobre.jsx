@@ -159,7 +159,7 @@ function Sobre() {
 
 
 
-          imageUrl="./fundo1.png"
+          imageUrl="https://img.freepik.com/free-photo/gradient-3d-fluid-background_23-2150499061.jpg"
         />
 
         <div className='about2'>
@@ -168,7 +168,7 @@ function Sobre() {
             text="acessoriadevfive@devfive.com"
             text2="+07 (67) 3288-2359"
             title='Contato'
-            imageUrl="./fundo.png"
+            imageUrl="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR-2QJzuesYzldLI-sazOm81uATczd1DNo6aXPE4KqFyE7_Xzm"
           />
           <FloatingBubble2
             text="It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
